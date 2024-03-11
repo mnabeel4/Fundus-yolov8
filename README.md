@@ -32,12 +32,3 @@ gdown "https://drive.google.com/uc?id=1dCMIamv2XI7xx8ExWNXswDRBfvHhSKfH&confirm=
 gdown "https://drive.google.com/uc?id=1w0SLc5DqdY4s2KRQ9rw944_dx2UwRk5H&confirm=t"
 gdown "https://drive.google.com/uc?id=1AVDY5a13cGdTd_0Wj1p93_xiFFEBcxIN&confirm=t"
 
-
-```
-
-
-- Video Tutorial Link  [`YouTube Link`](https://www.youtube.com/watch?v=hQyG5qf9TB0&t=5s)
-
-
-[![Watch the Complete Tutorial for the Step by Step Explanation](https://img.youtube.com/vi/hQyG5qf9TB0/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=hQyG5qf9TB0))
-
