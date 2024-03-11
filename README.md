@@ -1,15 +1,15 @@
-<H1 align="center">Fire Detection using YOLOv8</H1>
+<H1 align="center">MAEs Detection using YOLOv8</H1>
 
 
 ## Steps to run Code
 
 - Clone the repository
 ```
-git clone https://github.com/MuhammadMoinFaisal/FireDetectionYOLOv8.git
+git clone https://github.com/mnabeel4/Fundus-yolov8.git
 ```
 - Goto the cloned folder.
 ```
-cd FireDetectionYOLOv8
+cd Fundus-yolov8
 ```
 - Install the dependecies
 ```
@@ -32,10 +32,7 @@ gdown "https://drive.google.com/uc?id=1dCMIamv2XI7xx8ExWNXswDRBfvHhSKfH&confirm=
 gdown "https://drive.google.com/uc?id=1w0SLc5DqdY4s2KRQ9rw944_dx2UwRk5H&confirm=t"
 gdown "https://drive.google.com/uc?id=1AVDY5a13cGdTd_0Wj1p93_xiFFEBcxIN&confirm=t"
 
-```
-- Run the code with mentioned command below.
-```
-!python predict.py model='best.pt' source='forestfire4.mp4'
+
 ```
 
 
